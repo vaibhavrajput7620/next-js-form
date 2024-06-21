@@ -77,7 +77,7 @@ const Login = () => {
             </div>
             <div className="mb-6">
               <h3>
-                Do not have an Account?{" "}
+                Don't have an Account?
                 <span className="text-blue-900">
                   <Link href="/signup">Sign Up</Link>
                 </span>
