@@ -1,10 +1,3 @@
-/**
- * @fileoverview Signup component that renders a signup form and handles the signup process.
- * 
- * This file contains the Signup component which is responsible for rendering a signup form
- * and handling the signup process by sending a POST request to the backend API.
- * On successful signup, the user is redirected to the login page.
- */
 "use client";
 import axios from "axios";
 import Link from "next/link";
