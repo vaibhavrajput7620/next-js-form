@@ -1,3 +1,10 @@
+/**
+ * @fileoverview Login component that renders a login form and handles the login process.
+ * 
+ * This file contains the Login component which is responsible for rendering a login form
+ * and handling the login process by sending a POST request to the backend API.
+ * On successful login, the user is redirected to the home page.
+ */
 
 "use client";
 
