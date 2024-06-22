@@ -7,8 +7,8 @@ export default function Home() {
   e.preventDefault();
   try{
    const res= await axios.post("/api/signup",{
-    name:"arjun",
-    email:"ejujsj@gmail.com",
+    name:"vaibhav",
+    email:"vaibhav@gmail.com",
     password:"ajjskshsj"
    })
    console.log(res)
